@@ -1,0 +1,64 @@
+
+img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+
+.technologies{
+  color: rgb(8, 126, 126);
+}
+
+#technologies{
+  display: inline-block;
+  border: 2px solid black;
+  padding: 100px;
+  border-width: 1px;
+  border-radius: 15px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  background-color: rgb(8, 126, 126);
+}
+
+button{
+  border-radius: 30%;
+}
+table{
+  border-collapse: collapse;
+
+  width: 70%;
+
+}
+
+th,td{ 
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.Completed{
+  background-color: rgb(8, 126, 126);
+}
+.Learning{
+  background-color: rgb(240, 50, 50);
+}
+
+video{
+  width: 300px;
+  height: 500px;
+  object-fit: cover;
+}
+
+label {
+  color: rgb(8, 126, 126);
+  display: inline-block;
+  width: 80px;
+}
+
+input{
+  margin-bottom: 10px;
+}
+
+#footer{
+  font-family: 'Courier New', Courier, monospace;
+}
